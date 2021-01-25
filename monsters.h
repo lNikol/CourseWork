@@ -1,0 +1,40 @@
+#pragma once
+enum Monsters1lvl {
+	MONSTER_OGRE,
+	MONSTER_GNOME,
+	MONSTER_GOBLIN,
+	MONSTER_BANSHEE,
+};
+
+enum Monsters2lvl {
+	MONSTER_PEGASUS,
+	MONSTER_DRUID,
+	MONSTER_GRIFFON,
+	MONSTER_HYDRA,
+};
+
+enum Monsters3lvl {
+	MONSTER_BASILISK,
+	MONSTER_PHOENIX,
+	MONSTER_CHIMERA,
+};
+
+enum Monsters4lvl {
+	MONSTER_VALKYRIE,
+	MONSTER_CERBERUS,
+};
+
+enum Monsters5lvl {//Мини-боссы
+	MONSTER_ANGEL,
+	MONSTER_DEVIL,
+	MONSTER_VAMPIRE,
+	MONSTER_DRAGON,
+};
+
+enum Bosses {
+	MONSTER_GOD,
+	MONSTER_SATAN,
+};
+
+
+
